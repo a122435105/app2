@@ -25,6 +25,7 @@ h3 {
 }
 
 article {
+	color: green;
 	max-width: 600px;
 	margin: 0 auto;
 
