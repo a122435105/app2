@@ -1,0 +1,36 @@
+.container {
+	height: 70vh;
+	background: url(./car.jpg);
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 50px;
+	text-align: center;
+
+	display: flex;
+	flex-direction: colum;
+	justify-content: center;
+	align-item: center;
+
+}
+
+h1 {
+	color: #000;
+	font-size: 28px;
+	font-weight: 600;
+}
+
+h3 {
+	color: #48e614;
+	margin-top: 15px;
+}
+
+article {
+	max-width: 600px;
+	margin: 0 auto;
+
+}
+
+p {
+	padding-bottom: 20px;
+	line-height: 1.5em;
+}
